@@ -1,3 +1,6 @@
+## check the app at:https://aylar-countries-api.netlify.app/
+
+
 # Fast Track React app template with TypeScript & Redux 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
